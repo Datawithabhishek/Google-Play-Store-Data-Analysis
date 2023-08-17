@@ -1,4 +1,6 @@
-# Google Play Store Data Analysis
+<h1 align='center'> :microscope: Exploratory Data Analysis On Google Play Store Apps Reviews.<h1>
+
+![--------------------------------------------------------------------------------------------](https://github.com/andreasbm/readme/blob/master/assets/lines/grass.png)
 
 ![N|Solid](https://cdn.dribbble.com/users/5664795/screenshots/15315424/media/b39a4d06a92d81db68b6b0c479534742.gif)
 
@@ -6,9 +8,18 @@
 The objective of this project is to explore and analyze the Google Play Store apps dataset, which includes information such as category, rating, size, and more. Additionally, a dataset containing customer reviews of the Android apps is provided. The goal is to discover key factors that contribute to app engagement and overall success.
 
 
+##  💾 Project Files Description
+
+<p>This Project includes :-
+  <li>Google Colab NoteBook</li>
+  <li>Project Summary (with the GitHub Repo link inside)</li>
+  <li>Presentation PDF</li>
+  <li>Technical Documentation</li>
+</p>
 
 
-
+### Data Source:
+- [Dataset](https://drive.google.com/file/d/15SLvsarYG1wRaiZm21cC8XRfiWg0yTc1) - Dataset taken from AlmaBetter
 
 
 ## Features
@@ -36,6 +47,21 @@ The objective of this project is to explore and analyze the Google Play Store ap
 **Current Ver:** The app's current version.
 
 **Android Ver:** The oldest version of Android OS supported by the app.
+
+## 🛠️ Builds with
+
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+
+![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
+![Seaborn](https://img.shields.io/badge/Seaborn-blue?style=for-the-badge&logo=Seaborn)
+
+![GoogleColab](https://img.shields.io/badge/GoogleColab-orange?style=for-the-badge&logo=GoogleColab)
+
 
 
 ## Summary and Conclusion
