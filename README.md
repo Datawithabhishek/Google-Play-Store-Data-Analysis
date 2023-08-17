@@ -97,4 +97,11 @@ Positive correlation between reviews and installs, while price and rating exhibi
 
 By successfully achieving our project objectives and answering our research questions, we have obtained valuable insights into the Google Play Store apps ecosystem and the trends within.
 
+#
 
+Feel free to explore the repository to gain further insights into the code implementation, methodology, and findings.
+
+Connect with me on [Linkedin](https://www.linkedin.com/in/datawithabhishek/)
+Happy Learning!
+
+#
